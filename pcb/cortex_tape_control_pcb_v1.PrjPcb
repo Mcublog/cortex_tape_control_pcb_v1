@@ -97,7 +97,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SXENCVBT
 
 [Document4]
 DocumentPath=..\..\AltiumLib\Miscellaneous Devices.PcbLib
@@ -114,7 +114,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ALNAGLWO
 
 [Document5]
 DocumentPath=..\..\AltiumLib\Common_lib.SchLib
