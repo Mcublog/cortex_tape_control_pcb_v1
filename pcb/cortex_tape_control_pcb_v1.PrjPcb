@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 IsVirtualBomDocumentRemoved=0
-OutputPath=Project Outputs for cortex_tape_control_pcb_v1
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -146,99 +146,47 @@ DocumentPath=Project Outputs for cortex_tape_control_pcb_v1\pcb.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for qmeter_led_indication_pcb_v1\pcb.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument5]
 DocumentPath=Project Outputs for cortex_tape_control_pcb_v1\pcb.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument6]
-DocumentPath=Project Outputs for qmeter_led_indication_pcb_v1\pcb.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument7]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for cortex_tape_control_pcb_v1\pcb.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument8]
-DocumentPath=Project Outputs for qmeter_led_indication_pcb_v1\pcb.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument9]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for cortex_tape_control_pcb_v1\pcb.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument10]
-DocumentPath=Project Outputs for qmeter_led_indication_pcb_v1\pcb.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument11]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for cortex_tape_control_pcb_v1\pcb.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument12]
-DocumentPath=Project Outputs for qmeter_led_indication_pcb_v1\pcb.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument13]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for cortex_tape_control_pcb_v1\pcb.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument14]
-DocumentPath=Project Outputs for qmeter_led_indication_pcb_v1\pcb.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument15]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for cortex_tape_control_pcb_v1\pcb.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument16]
-DocumentPath=Project Outputs for qmeter_led_indication_pcb_v1\pcb.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument17]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for cortex_tape_control_pcb_v1\pcb.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument18]
-DocumentPath=Project Outputs for qmeter_led_indication_pcb_v1\pcb.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument19]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for cortex_tape_control_pcb_v1\pcb.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument20]
-DocumentPath=Project Outputs for qmeter_led_indication_pcb_v1\pcb.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument21]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for cortex_tape_control_pcb_v1\pcb.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument22]
-DocumentPath=Project Outputs for qmeter_led_indication_pcb_v1\pcb.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument23]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for cortex_tape_control_pcb_v1\pcb.REP
 DItemRevisionGUID=
 
-[GeneratedDocument24]
-DocumentPath=Project Outputs for qmeter_led_indication_pcb_v1\pcb.REP
-DItemRevisionGUID=
-
-[GeneratedDocument25]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for cortex_tape_control_pcb_v1\pcb.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for qmeter_led_indication_pcb_v1\pcb.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for qmeter_led_indication_pcb_v1\pcb.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -288,7 +236,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for cortex_tape_control_pcb_v1
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
